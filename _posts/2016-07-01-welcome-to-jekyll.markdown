@@ -11,4 +11,4 @@ This website is a collection of everything that has influenced [me](/about): ess
 
 The way I live has been heavily influenced by many people—most recently, by my brother. Both of us *actively* seek to improve our lives and acheive our goals. I think many people claim to do these things as well, but few succeed. My brother and I push each other; we feed off each other. We constantly seek out new opportunities to better ourselves. The point of this website is to share what I've learned with the world—to mutually improve.
 
-You can find my collection of readings [here](/readings) and my collection of [resources](/resources) here.
+You can find my collection of readings [here](/readings) and my collection of resources [here](/resources).
