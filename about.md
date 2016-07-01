@@ -32,15 +32,14 @@ At the moment, я знаю a fair amount of Russian, though I'm better at readin
 
 * Functional
    * [Haskell](https://www.haskell.org/)
-   * Lisp
-      * [Clojure](https://clojure.org/) *(even though I hate Java and its horrors infect everything it touches, including Clojure)*
+   * Lisp Dialects
+      * [Clojure](https://clojure.org/)
 * Imperative
    * [Go](https://golang.org/)
    * [Python 3](https://www.python.org/)
    * [C](https://en.wikipedia.org/wiki/C_(programming_language))
 * Most Despised
    * [Java](https://java.com/en/download/)
-      * Even the website is awful
 
 ### Ritualistic Elixirs
 
