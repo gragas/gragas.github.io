@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Mutual Improvement
+email: tdf.tomfischer@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This website is a collection of everything that has influenced me:
+  essays, people, places, and personal experiences and interests.
+  Much of the content is focused on what I’ve learned and how I strive to live my life.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://gragas.github.io" # the base hostname & protocol for your site
+github_username: gragas
+resume_url: "https://github.com/gragas/CV/blob/master/resume.pdf"
+
+# Build settings
+markdown: kramdown
