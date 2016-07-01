@@ -15,3 +15,37 @@ I currently attend [UIUC](http://cs.illinois.edu), where I study computer scienc
 Most of my aspirations center around computer science, though other than that they have little to do with each other: I want to start a startup. I want to get a PhD in computer science (in PL theory) from a place like [MIT](http://projects.csail.mit.edu/pl/), [Harvard](http://pl.seas.harvard.edu/), or [CMU](http://www.cs.cmu.edu/Groups/pop/), among many others. I want to work at an awesome company like [Google](http://google.com/).
 
 At the moment, я знаю a fair amount of Russian, though I'm better at reading and listening than writing and speaking. I'm trying to expand my Russian vocabulary and solidify my grammar skills. I read and listen to [*Эхо Москвы*](http://echo.msk.ru) every day, and watch classic русские мультики like [*Простоквашино*](https://www.youtube.com/watch?v=pXD3txG2bVQ) and [*Карлсон Который Живёт на Крыше*](https://www.youtube.com/watch?v=TZTjr-DN9xY). In addition to Russian, I'm learning German and French. French is hard. German seems easy.
+
+## Preferences
+
+### Computing
+
+| Thing              | Thing it Maps to                                                 |
+|--------------------|------------------------------------------------------------------|
+| Operating System   | [Arch Linux](https://www.archlinux.org/)                         |
+| Editor             | [Emacs](https://www.gnu.org/software/emacs/)                     |
+| Theme              | Solarized Dark                                                   |
+| Font               | [Roboto Mono](https://www.google.com/fonts/specimen/Roboto+Mono) |
+| Machine            | Lenovo Thinkpad T450s                                            |
+
+### Programming Languages
+
+* Functional
+   * [Haskell](https://www.haskell.org/)
+   * Lisp
+      * [Clojure](https://clojure.org/) *(even though I hate Java and its horrors infect everything it touches, including Clojure)*
+* Imperative
+   * [Go](https://golang.org/)
+   * [Python 3](https://www.python.org/)
+   * [C](https://en.wikipedia.org/wiki/C_(programming_language))
+* Most Despised
+   * [Java](https://java.com/en/download/)
+      * Even the website is awful
+
+### Ritualistic Elixirs
+
+| Thing    | Thing it Maps to |
+|----------|------------------|
+| Coffee   | Black            |
+| Tea      | Black; Unsweet   |
+
