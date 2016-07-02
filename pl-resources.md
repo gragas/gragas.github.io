@@ -10,10 +10,11 @@ permalink: /pl-resources/
 
 ### Haskell
 
-* [Haskell Crash Course](http://yager.io/CrashCourse/Haskell.html) by William Yager
-   * Note: It is better to install [stack](http://docs.haskellstack.org/en/stable/README/) rather than `haskell-platform`
+* [The Haskell Wiki](https://wiki.haskell.org/Haskell)
 * [Real World Haskell](http://book.realworldhaskell.org/read/) by O'sullivan, Stewart, and Goerzen
 * [The Haskell Wikibook](https://en.wikibooks.org/wiki/Haskell)
+* [Haskell Crash Course](http://yager.io/CrashCourse/Haskell.html) by William Yager
+   * Note: It is better to install [stack](http://docs.haskellstack.org/en/stable/README/) rather than `haskell-platform`
 
 ### The Lambda Calculus
 
@@ -23,3 +24,8 @@ permalink: /pl-resources/
 ### Lisp
 
 * [On Lisp](http://ep.yimg.com/ty/cdn/paulgraham/onlisp.pdf) by Paul Graham
+
+## Miscellaneous
+
+* [okmij.org/ftp](http://okmij.org/ftp/)
+   * This is a **really good** website maintained by a **really knowledgable** person
