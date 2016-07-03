@@ -4,4 +4,7 @@ title: Russian Resources
 permalink: /ru-resources/
 ---
 
-* [Неделя как неделя Translation](/a-week-like-any-other-translation) by Thomas Fischer (me)
+## Translations
+
+* [Неделя как неделя](/a-week-like-any-other-translation) [1969] Translated by Thomas Fischer
+* [Почему в России все плохо, а на Западе все хорошо?](/why-is-everything-bad-translation) [2016] Translated by Thomas Fischer

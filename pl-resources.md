@@ -27,5 +27,6 @@ permalink: /pl-resources/
 
 ## Miscellaneous
 
+* [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html) by Abelson and Sussman
 * [okmij.org/ftp](http://okmij.org/ftp/)
    * This is a **really good** website maintained by a **really knowledgable** person
