@@ -128,3 +128,116 @@ My solution:
 *What behavior will Ben observe with an interpreter that uses applicative-order evaluation?* Ben will observe infinite recursion (and probably stack overflow) since applicative-order requires that all arguments be evalutated before the procedure is applied to them. This means that `(p)` will be evaulated, which will infinitely recurse.
 
 *What behavior will he observe with an interpreter that uses normal-order evaluation?* Ben will observe that the interpreter evaluates his expression `(test 0 (p))` to be 0.
+
+---------------------------------
+
+**Exercise 1.6.**  Alyssa P. Hacker doesn't see why if needs to be provided as a special form. ``Why can't I just define it as an ordinary procedure in terms of cond?'' she asks. Alyssa's friend Eva Lu Ator claims this can indeed be done, and she defines a new version of if:
+
+```
+(define (new-if predicate then-clause else-clause)
+  (cond (predicate then-clause)
+        (else else-clause)))
+```
+
+Eva demonstrates the program for Alyssa:
+
+```
+(new-if (= 2 3) 0 5)
+5
+
+(new-if (= 1 1) 0 5)
+0
+```
+
+Delighted, Alyssa uses new-if to rewrite the square-root program:
+
+```
+(define (sqrt-iter guess x)
+  (new-if (good-enough? guess x)
+          guess
+          (sqrt-iter (improve guess x)
+                     x)))
+```
+
+What happens when Alyssa attempts to use this to compute square roots? Explain.
+
+My solution:
+
+The procedure will infinitely recurse (if applicative-order argument evaluation is used). Infinite recursion will happen under applicative-order because all arguments, including both `then-clause` and `else-clause` will be evaluated before the procedure is applied. In this case, `else-clause` is a recursive call to the function itself. Every single call to the function will result in another call to itself, regardless of the provided `predicate`.
+
+----------------
+
+**Exercise 1.7.**  The `good-enough?` test used in computing square roots will not be very effective for finding the square roots of very small numbers. Also, in real computers, arithmetic operations are almost always performed with limited precision. This makes our test inadequate for very large numbers. Explain these statements, with examples showing how the test fails for small and large numbers. An alternative strategy for implementing `good-enough?` is to watch how `guess` changes from one iteration to the next and to stop when the change is a very small fraction of the `guess`. Design a square-root procedure that uses this kind of end test. Does this work better for small and large numbers?
+
+My solution:
+
+*The* `good-enough?` *test used in computing square roots will not be very effective for finding the square roots of very small numbers.* Suppose that we try to compute the square root of a number that is less than our provided `good-enough?` threshold. There is very low probability that the result will be reasonably accurate. To demonstrate this, consider trying to determine the square root of 25, where our initial `guess` is 1 and our threshold is 250. Our initial guess already passes our `good-enough?` test, and so the procedure returns 1, which is quite inaccurate. More formally, if our threshold *t* is some multiple of the number *x* that we're trying to find the square root of, then our final guess can be up to `(* b 100)` percent greater or less than the actual square root.
+
+Here's an example of this implementation failing miserably:
+
+```
+> (sqrt 1e-6)
+0.031260655525445276
+> (square 0.03126065552544276)
+9.772285838803947e-4
+```
+
+Our final guess is more than two orders of magnitude away from the actual solution, 0.001!
+
+*Also, in real computers, arithmetic operations are almost always performed with limited precision. This makes our test inadequate for very large numbers.* The specific problem with approximating the square roots of very large numbers using this implementation is our threshold, 0.001, is very small relative to the size of the square root that is being approximated. This means that many more steps than necessary are required to determine the square root of large numbers. For example, `(sqrt 3.3242e16)` takes a very long time to finish on my reltaively powerful computer.
+
+*An alternative strategy for implementing good-enough? is to watch how guess changes from one iteration to the next and to stop when the change is a very small fraction of the guess. Design a square-root procedure that uses this kind of end test.* I've redefined the `good-enough?` procedure as follows:
+
+```
+(define (good-enough? guess x)
+    (<= (/ (abs (- (square guess) x)) x) 0.01))
+```
+
+*Does this work better for small and large numbers?*
+
+With this new procedure, both of the bad examples I listed above (`(sqrt 1e-6)` and `(sqrt 3.3242e16)`) are more accurate and terminate within the blink of an eye.
+
+-------------------
+
+**Exercise 1.8.**  Newton's method for cube roots is based on the fact that if y is an approximation to the cube root of x, then a better approximation is given by the value
+
+![Taken kindly from https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-10.html](https://mitpress.mit.edu/sicp/full-text/book/ch1-Z-G-5.gif)
+
+Use this formula to implement a cube-root procedure analogous to the square-root procedure.
+
+My solution:
+
+```
+(define (cube-root x)
+  (cube-root-iter 1.0 x))
+
+(define (cube-root-iter guess x)
+    (if (good-enough? guess x)
+        guess
+        (cube-root-iter (improve guess x) x)))
+
+(define (improve guess x)
+  (/ (+ (/ x (* guess guess))
+        (* 2 guess))
+     3))
+
+(define (good-enough? guess x)
+    (<= (/ (abs (- (cube guess) x)) x) 0.01))
+
+(define (cube x) (* x x x))
+```
+
+How it stands:
+
+```
+> (cube-root 1.0)
+1.0
+> (cube-root 8.0)
+2.003137499141287
+> (cube-root 27.0)
+3.001274406506175
+> (cube-root 123123123123.0)
+4989.154214060669
+> (cube 4989.154214060669)
+1.2418832924483836e11
+```
