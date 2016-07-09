@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "How I Learned to Stop Worrying and Love the Machines"
+date:   2016-07-09 11:15:00 -0700
+categories: technology philosophy economics
+---
+
+A future where technology replaces human labour has been [written](http://www.economist.com/news/leaders/21701119-what-history-tells-us-about-future-artificial-intelligenceand-how-society-should?vh=a7c7daac36d6df918c5f445b700eab34c338d090&ts=1468083990) [about](http://www.bbc.com/news/technology-33327659) [extensively](http://www.nytimes.com/2016/02/28/magazine/the-robots-are-coming-for-wall-street.html). Many who have authored an opinion on the topic suggest such a future will be dystopian, or, as Marxist writer David Ricardo put it in his 1817 essay [*On Machinery*](https://www.marxists.org/reference/subject/economics/ricardo/tax/ch31.htm), "may at the same time render the population redundant."
+
+This future has arrived. Millions of jobs *have been* destroyed, already. The tragedy of technology is not that jobs are stripped from society, but that they are replaced by banal ones. Humans have loathed this pain since the agricultural revolution. For eating the forbidden fruit, Adam was exiled from the Garden of Eden and scolded: "*By the sweat of your brow*, you  will have to eat your food until you return to the ground." (Genesis 3:19). Adam's punishment was to work until he died at the age of 930. Yuval Harari, author of [*Sapiens*](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095), argues in reference to the domestication of wheat that "humans exchanged a rather good life for a more miserable existence".
+
+It's clear that the lack of work is not as much an issue as the boredom caused by it. Technology trivializes the daily life of billions of humans. Blaise Pascal asserted that "All of humanity's problems stem from man's inability to sit quietly in a room alone". Humans want to use their talents and creativity. The root cause of disillusionment with modern life is not technology, but the mundane. In solving so many problems, technology fosters boring routine.
+
+Many have tried to solve the problem trivial work poses. Martin Luther posited that work is moral and righteous—to work is to serve God. The founding text of economic sociology, Max Weber's [*The Protestant Ethic and the Spirit of Capitalism*](https://en.wikipedia.org/wiki/The_Protestant_Ethic_and_the_Spirit_of_Capitalism) claims that driving force behind capitalism began with [Protestant work ethic](https://en.wikipedia.org/wiki/Protestant_work_ethic). If he and Luther are right, then a sense of duty to God did ameliorate this problem. The prestige that Protestantism associated with work gave purpose to many workers who otherwise would have none.
+
+Karl Marx also understood the tragedy of boring work. In his manifesto, this was the fault of capitalism: he claims that capitalism prevents millions from enjoying their work. He offered communism as a solution. According to Marx, communism would not only prevent the exploitation of the working class—it would provide crucial enjoyment to the tasks completed by everyone.
+
+Michelangelo and Leonardo DaVinci were paid generous wages for their works. Despite this, they gave a way most of their money, or used it to hire other artists. DaVinci and Michelangelo worked for *fulfillment* rather than wealth.
+
+I take the side of most of these philosophers: I agree that techonology trivializes the lives of billions. Technology has already wraught depression, boredom, and lack of purpose upon a large portion of humanity. But, like many of them, I don't think that hindering technology or removing it from our lives will solve our problems. To live an enjoyable life is to be a part of the technological movement that started with the agricultural revolution. To create technology, or to use it to further our creative capabilities, is what we should all do. Many do not have as much opportunity as others, but technology is here to stay. It can both advance humanity and ravage it. It is up to us to use it to for the betterment of us all.

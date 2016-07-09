@@ -19,3 +19,4 @@ resume_url: "https://github.com/gragas/CV/blob/master/resume.pdf"
 
 # Build settings
 markdown: kramdown
+future: true
