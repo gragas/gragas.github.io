@@ -23,6 +23,8 @@ permalink: /pl-resources/
 
 ### Lisp
 
+* [Clojure for the Brave and True](http://www.braveclojure.com/foreword/) by Daniel Higginbotham
+   * This is a **very good** practical introduction to Clojure, one of the best Lisp dialects
 * [On Lisp](http://ep.yimg.com/ty/cdn/paulgraham/onlisp.pdf) by Paul Graham
 
 ## Miscellaneous

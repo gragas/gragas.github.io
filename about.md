@@ -14,7 +14,7 @@ I currently attend [UIUC](http://cs.illinois.edu), where I study computer scienc
 
 Most of my aspirations center around computer science, though other than that they have little to do with each other: I want to start a startup. I want to get a PhD in computer science (in PL theory) from a place like [MIT](http://projects.csail.mit.edu/pl/), [Harvard](http://pl.seas.harvard.edu/), or [CMU](http://www.cs.cmu.edu/Groups/pop/), among many others. I want to work at an awesome company like [Google](http://google.com/).
 
-At the moment, я знаю a fair amount of Russian, though I'm better at reading and listening than writing and speaking. I'm trying to expand my Russian vocabulary and solidify my grammar skills. I read and listen to [*Эхо Москвы*](http://echo.msk.ru) every day, and watch classic русские мультики like [*Простоквашино*](https://www.youtube.com/watch?v=pXD3txG2bVQ) and [*Карлсон Который Живёт на Крыше*](https://www.youtube.com/watch?v=TZTjr-DN9xY). In addition to Russian, I'm learning German.
+At the moment, я знаю a fair amount of Russian, though I'm better at reading and listening than writing and speaking. I'm trying to expand my Russian vocabulary and solidify my grammar skills. I read and listen to [*Эхо Москвы*](http://echo.msk.ru) every day, and watch classic русские мультики like [*Простоквашино*](https://www.youtube.com/watch?v=pXD3txG2bVQ) and [*Карлсон Который Живёт на Крыше*](https://www.youtube.com/watch?v=TZTjr-DN9xY).
 
 ## Preferences
 
@@ -34,6 +34,7 @@ At the moment, я знаю a fair amount of Russian, though I'm better at readin
    * [Haskell](https://www.haskell.org/)
    * Lisp Dialects
       * [Clojure](https://clojure.org/)
+      * A lil' bit of [Chez Scheme](http://scheme.com/)
 * Imperative
    * [Go](https://golang.org/)
    * [Python 3](https://www.python.org/)
@@ -41,10 +42,10 @@ At the moment, я знаю a fair amount of Russian, though I'm better at readin
 * Most Despised
    * [Java](https://java.com/en/download/)
 
-### Ritualistic Elixirs
+### Rituals and Ritualistic Elixirs
 
 | Thing    | Thing it Maps to |
 |----------|------------------|
 | Coffee   | Black            |
 | Tea      | Black; Unsweet   |
-
+| Showers  | Cold and fast    |
