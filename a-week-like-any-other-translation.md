@@ -37,3 +37,19 @@ permalink: /a-week-like-any-other-translation/
 **А вы не запоздаете с испытаниями, Ольга Николаевна?**
 
 *And your tests won't be late, Olga Nikolayevna?*
+
+**Я вспыхиваю и растерянно молчу. Я, конечно, могу сказать: "Нет, что вы, конечно, нет". Лучше было бы сказать так. Но я молчу. Разве я могу ручаться?**
+
+*I blush and fall into a bewildered silence. I, of course, could say: "No, of course not." It would be better to say that, but I keep silent. Really, how could I back up my words?*
+
+**Тихим ровным голосом Яков Петрович говорит:**
+
+*Yakov Petrovich, in a quiet smooth voice, says:*
+
+**Учитывая ваш интерес к работе и... м-м-м... ваши способности, мы перевели вас на вакантное место младшего научного сотрудника, включили в группу, работающую над интересной проблемой. Не стану скрывать, нас несколько беспокоит... м-м-м... удивляет, что вы, так сказать, недостаточно аккуратно относитесь к работе....**
+
+*Considering your interest in work and... m-m-m... your capabilities, we have moved you to a vacant place where you will be a junior researcher. In this group you'll work on an interesting problem. I will not hide the fact that we have some worries... m-m-m... it is surprising that you, so to speak, are not sufficiently careful in your work.*
+
+**Я молчу. Я люблю свою работу. Я дорожу тем, что самостоятельна. Я работаю охотно. Мне не кажется, что я работаю неаккуратно. Но я часто опаздываю, особенно в понедельник. Что я могу ответить? Надеюсь, что это просто разнос, ничего больше. Разнос за опозданья. Я бормочу что-то про ледяные тропки и сугробы в нашем необжитой квартале, про автобус, который, приходит на остановку переполненным, про страшную толпу на "Соколе", и с какой-то тоскливой тошнотой вспоминаю, что все это я уже говорила раньше, - Надо постараться быть собраннее, -  заключает Яков Петрович, - вы меня извините, так сказать, за нравоучения, но вы еще только начинаете свой трудовой путь... Мы вправе надеяться, что вы будете дорожить доверием, которое мы оказываем молодому специалисту...**
+
+*I am silent. I love my work. I cherish the fact that I work independently. I work carefully. It doesn't seem to me that I am uncareful when I work. But I am often late, especially on Monday. What can I say in reply? I hope that this is just fluff and nothing more. Just fluff for my tardiness. I mumble nonsense about ice and snow drifts in our area outback, about the bus that arrives at the crowded stop, about the terrible crowd in Sokol, and with some dreary nausea I remember that I have said all of this before. "You must try to pull yourself together," Yakov Petrovich concludes. "Forgive me for lecturing, so to speak, but you are just starting your career. We hope that you will cherish the trust that we place in a young professional..."*
