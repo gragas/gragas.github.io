@@ -15,3 +15,4 @@ permalink: /philosophy-readings/
 ## *How Ought We to Live our Lives*
 
 * [Why You Should Aim for 100 Rejections a Year](http://lithub.com/why-you-should-aim-for-100-rejections-a-year) [2016] by Kim Liao
+* [Opportunities to Fight](https://news.ycombinator.com/item?id=12143614) [2016] by noname123
