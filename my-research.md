@@ -20,3 +20,5 @@ This is a list of questions, concepts, and ideas that I have thought about, but 
 ## Unpublished Research
 
 This is a list of research that I have done and ideas that I have more or less formalized, though none have been published.
+
+* [The Strong Programming Language](/strong-lang)

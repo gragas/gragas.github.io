@@ -6,6 +6,7 @@ permalink: /pl-resources/
 
 ### Category Theory
 
+* [Category Theory for the Sciences](http://category-theory.mitpress.mit.edu/index.html) [2014] by David I. Spivak
 * [The nLab](https://ncatlab.org/nlab/show/HomePage)
 
 ### Haskell
