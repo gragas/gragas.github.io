@@ -12,7 +12,7 @@ I have some industry experience: I've professionally developed software with Pyt
 
 I currently attend [UIUC](http://cs.illinois.edu), where I study computer science. I am tentatively set to graduate in the spring of 2018. This is where I fell in love with programming language theory after taking Mattox Beckman's class on the subject (CS 421).
 
-Most of my aspirations center around computer science, though other than that they have little to do with each other: I want to start a startup. I want to get a PhD in computer science (in PL theory) from a place like [MIT](http://projects.csail.mit.edu/pl/), [Harvard](http://pl.seas.harvard.edu/), or [CMU](http://www.cs.cmu.edu/Groups/pop/), among many others. I want to work at an awesome company like [Google](http://google.com/).
+Most of my aspirations center around computer science, though other than that they have little to do with each other: I want to start a startup. I want to get a PhD in computer science (in PL theory) from a place like [MIT](http://projects.csail.mit.edu/pl/), [Harvard](http://pl.seas.harvard.edu/), or [CMU](http://www.cs.cmu.edu/Groups/pop/), among many others. I want to teach computer science among other things.
 
 At the moment, я знаю a fair amount of Russian, though I'm better at reading and listening than writing and speaking. I'm trying to expand my Russian vocabulary and solidify my grammar skills. I read and listen to [*Эхо Москвы*](http://echo.msk.ru) every day, and watch classic русские мультики like [*Простоквашино*](https://www.youtube.com/watch?v=pXD3txG2bVQ) and [*Карлсон Который Живёт на Крыше*](https://www.youtube.com/watch?v=TZTjr-DN9xY).
 
