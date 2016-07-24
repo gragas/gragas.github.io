@@ -12,4 +12,9 @@ permalink: /math-resources/
 
 ## Category Theory
 
+* [Category Theory for the Sciences](http://category-theory.mitpress.mit.edu/index.html) [2014] by David I. Spivak
 * [The nLab](https://ncatlab.org/nlab/show/HomePage)
+
+## Linear Algebra
+
+* [Best Linear Algebra Books](https://begriffs.com/posts/2016-07-24-best-linear-algebra-books.html)
