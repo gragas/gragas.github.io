@@ -9,6 +9,7 @@ Some of the readings listed here are technical, but none serve as references, gu
 * [History](/history-readings)
 * [Literature](/lit-readings)
 * [Meta Research](/meta-research-readings) (How to Research Better)
+* [Mushrooms, Magic, ...](/the-dome)
 * [Programming Language Theory](/pl-readings)
 * [Philosophy and Life](/philosophy-readings)
 * [Startups](/startups-readings)
