@@ -47,5 +47,5 @@ At the moment, я знаю a fair amount of Russian, though I'm better at readin
 | Thing    | Thing it Maps to |
 |----------|------------------|
 | Coffee   | Black            |
-| Tea      | Black; Unsweet   |
+| Tea      | Green; Unsweet   |
 | Showers  | Cold and fast    |
