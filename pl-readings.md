@@ -10,3 +10,4 @@ permalink: /pl-readings/
 * [Lisp: It's Not About Macros, It's About Read](http://jlongster.com/Lisp--It-s-Not-About-Macros,-It-s-About-Read) [2012] by James Long
 * [A Coming Revolution in Metaprogramming](http://notes.willcrichton.net/the-coming-age-of-the-polyglot-programmer/) [2016] by Will Crichton
 * [Rust: The New LLVM](http://notes.willcrichton.net/rust-the-new-llvm/) [2016] by Will Crichton
+* [On the Cruelty of Really Teaching Computing Science](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1036.html) [1988] by Edsger W. Dijkstra
