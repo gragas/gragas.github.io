@@ -12,6 +12,8 @@ I don't believe the field I'm trying to pinpoint has a name. Large parts of it a
 
 * [Rapdancing into the Third Millenium](https://www.youtube.com/watch?v=adDRsqEj4PU) [1994 Talk] by Terence McKenna
    * [Transcription](https://terencemckenna.wikispaces.com/Rap+Dancing+Into+the+Third+Millenium)
+* [State Bounded Memory and Mnemonic Techniques](https://www.youtube.com/watch?v=4CqvAvu3G_k) [Date Unknown. Talk] by Terence McKenna
+   * [Transcription with Links](/state-bounded-memory-and-mnemonic-techniques/) by Thomas Fischer (me)
 
 ## Hard Science (*Readings, not Resources*)
 
